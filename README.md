@@ -7,7 +7,7 @@
   + GNU/Linux
 - 🌱 I’m currently learning:
   + HTML5
-    * Canvas (mainly how to make games
+    * Canvas (mainly how to make games)
     * How to make CSS Grid and Flexbox layouts
   + JS
     * Again, mainly for games
